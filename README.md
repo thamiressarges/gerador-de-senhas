@@ -1,4 +1,4 @@
-![Tela principal](./images/Gerador de senhas_banner.png)
+![Tela principal](./images/gerador_de_senhas_banner.png)
 
 # 🔐 Gerador de Senhas
 
@@ -21,14 +21,7 @@ Aplicativo Android simples e funcional para geração de senhas seguras. Criado 
 
 <!-- Adicione aqui as imagens de apresentação -->
 
-![Geração de senha](./images/Visualize a experiência.png)
-
----
-
-## 🎥 Vídeo Demonstrativo
-
-<!-- Adicione aqui o link do vídeo ou gif da execução do app -->
-[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+![Geração de senha](./images/visualize_a_experiência.png)
 
 ---
 
